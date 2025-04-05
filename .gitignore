@@ -4,3 +4,4 @@ _*pycache*_
 qr_codes
 *.sqlite
 .vscode
+.secret
